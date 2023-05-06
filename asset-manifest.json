@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/JAZROMidLevelChallenge/static/css/main.f8e27b6e.css",
+    "main.js": "/JAZROMidLevelChallenge/static/js/main.14fc4335.js",
+    "static/js/787.e3263b31.chunk.js": "/JAZROMidLevelChallenge/static/js/787.e3263b31.chunk.js",
+    "static/media/primeicons.svg": "/JAZROMidLevelChallenge/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/JAZROMidLevelChallenge/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/JAZROMidLevelChallenge/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/JAZROMidLevelChallenge/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/JAZROMidLevelChallenge/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/color.png": "/JAZROMidLevelChallenge/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/JAZROMidLevelChallenge/index.html",
+    "main.f8e27b6e.css.map": "/JAZROMidLevelChallenge/static/css/main.f8e27b6e.css.map",
+    "main.14fc4335.js.map": "/JAZROMidLevelChallenge/static/js/main.14fc4335.js.map",
+    "787.e3263b31.chunk.js.map": "/JAZROMidLevelChallenge/static/js/787.e3263b31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8e27b6e.css",
+    "static/js/main.14fc4335.js"
+  ]
+}
