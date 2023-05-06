@@ -1,4 +1,4 @@
-# JAZRO Challenge
+# JAZRO Mid-Level Challenge
 Munirah binti Mohd Aziz
 
 ## How to run
